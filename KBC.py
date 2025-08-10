@@ -18,7 +18,7 @@ for i in range(len(questions)):
     print(f"options: {options[i]}")
     user_input = input("Enter your answer from given A,B,C,D options!").strip().upper()
     if user_input == answers[i]:
-            print("Congratulations, you entered right answer")
+            print("You entered right answer")
             total_winnings += prize_money[i]
     else:
             print(f"Wrong answer, correct answer is {answers[i]}")
@@ -26,4 +26,5 @@ for i in range(len(questions)):
         
     print(f"Congratulations you are taking home: ${total_winnings}")
             
+
   
