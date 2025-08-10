@@ -9,7 +9,9 @@ Each game is built with basic Python concepts and is meant to be beginner-friend
 ## 🎯 Purpose
 <br>
 - To practice Python coding skills.
+<br>
 - To experiment with game logic and interactive programs.
+<br>
 - To have fun while learning programming.
 <hr>
 ## 📂 Games in This Repository
