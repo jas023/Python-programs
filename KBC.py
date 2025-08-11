@@ -10,7 +10,7 @@ options = ["A. 6 , B. 8 , C. 5 , D. 4",
            
 answers = ["C", "B" , "B"]
 
-prize_money = [1000, 5000, 10000]
+prize_money = [1000, 4000, 8000]
 total_winnings = 0
 
 for i in range(len(questions)):
@@ -28,4 +28,5 @@ for i in range(len(questions)):
             
 
   
+
 
