@@ -24,7 +24,8 @@ for i in range(len(questions)):
             print(f"Wrong answer, correct answer is {answers[i]}")
             break
         
-    print(f"Congratulations you are taking home: ${total_winnings}")
+    print(f"Congratulations you are taking home: ${total_winnings}!")
             
 
   
+
