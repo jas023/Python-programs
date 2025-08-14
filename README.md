@@ -17,4 +17,5 @@ Each game is built with basic Python concepts and is meant to be beginner-friend
 ** 📂 Games in This Repository
 <br>
 - **KBC** – This is same like that mini verson of Kon Banega Crorepati (KBC) game.
+- **Snake-Water-Gun** - This is where user chooses one out of snake, water, gun and computer chooses then the result is declaraed.
 
