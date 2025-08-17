@@ -21,4 +21,6 @@ Each game is built with basic Python concepts and is meant to be beginner-friend
 - **Snake-Water-Gun** - This is where user chooses one out of snake, water, gun and computer chooses then the result is declaraed.
 <br>
 - **Calculator** - Not a game but A simple normal calculator instead for basic calculations.
+<br>
+- **Guess the number** - In this you have some chances in which you have to guess the right number.
 
