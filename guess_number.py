@@ -19,5 +19,6 @@ for i in range(chances):
         print("Too high! Try again.")
 else:
     print(f"\n😢 Opps Game Over! The number was {number}!")
-    print("\n Better luck next time😉!")
+    print("\n Better luck next time😉")
+
 
