@@ -1,10 +1,10 @@
-# Python Games 🎮
+# Python Programs 🎮
 
 <hr>
 
 
-This repository contains a growing collection of simple Python games I created while learning and practicing Python programming.  
-Each game is built with basic Python concepts and is meant to be beginner-friendly.
+This repository contains a growing collection of simple Python programs, created while learning and practicing Python programming.  
+Each program is built with basic Python concepts and is meant to be beginner-friendly.
 <hr>
 ** 🎯 Purpose
 <br>
@@ -14,7 +14,7 @@ Each game is built with basic Python concepts and is meant to be beginner-friend
 <br>
 - To have fun while learning programming.
 <hr>
-** 📂 Games in This Repository
+** 📂 Programs in This Repository
 <br>
 - **KBC** – This is same like that mini verson of Kon Banega Crorepati (KBC) game.
 <br>
@@ -23,4 +23,6 @@ Each game is built with basic Python concepts and is meant to be beginner-friend
 - **Calculator** - Not a game but A simple normal calculator instead for basic calculations.
 <br>
 - **Guess the number** - In this you have some chances in which you have to guess the right number.
+<br>
+- **Currency-Converter** - This is the program for converting the currency from one to another.
 
