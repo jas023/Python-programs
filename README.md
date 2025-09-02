@@ -29,4 +29,6 @@ Each program is built with basic Python concepts and is meant to be beginner-fri
 - **Fake news Generator** - This where a fake news is made once then asked from user if want new fake news to generate.
 <br>
 - **Alarm clock** - This is like normal alarm clock where user sets for the timer and at that time sound rings for some seconds.
+<br>
+- **Calculator_with_history** - This is something more than a simple calculator , it includes history , clear, exit command alsoo.
 
