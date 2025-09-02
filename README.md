@@ -25,4 +25,6 @@ Each program is built with basic Python concepts and is meant to be beginner-fri
 - **Guess the number** - In this you have some chances in which you have to guess the right number.
 <br>
 - **Currency-Converter** - This is the program for converting the currency from one to another.
+<br>
+- **Fake news Generator** - This where a fake news is made once then asked from user if want new fake news to generate.
 
