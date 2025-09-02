@@ -27,4 +27,6 @@ Each program is built with basic Python concepts and is meant to be beginner-fri
 - **Currency-Converter** - This is the program for converting the currency from one to another.
 <br>
 - **Fake news Generator** - This where a fake news is made once then asked from user if want new fake news to generate.
+<br>
+- **Alarm clock** - This is like normal alarm clock where user sets for the timer and at that time sound rings for some seconds.
 
